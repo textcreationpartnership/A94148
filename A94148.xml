@@ -1,0 +1,318 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Swedish cloak of religion: or, A politick discourse between two citizens of Elbing. Occasioned by the publishing of a proclamation, by the Swedish governour of that city. Wherein is laid open to the view of the world, how the whole palatinate of Marienburgh in Prussia is made desolate, and brought into slavery, by the Swedish religious pretexts, and introduction of a new church-government. And consequently, the grand mistake of all such as have conceived an impression that the present King of Swedens martial undertakings were really intended for or towards the propagation and defence of the Protestant cause. First printed in the German language, and now faithfully Englished.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94148</idno>
+            <idno type="STC">Wing S6245</idno>
+            <idno type="STC">Thomason E993_5</idno>
+            <idno type="STC">ESTC R207770</idno>
+            <idno type="EEBO-CITATION">99866801</idno>
+            <idno type="PROQUEST">99866801</idno>
+            <idno type="VID">119087</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94148)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119087)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 148:E993[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Swedish cloak of religion: or, A politick discourse between two citizens of Elbing. Occasioned by the publishing of a proclamation, by the Swedish governour of that city. Wherein is laid open to the view of the world, how the whole palatinate of Marienburgh in Prussia is made desolate, and brought into slavery, by the Swedish religious pretexts, and introduction of a new church-government. And consequently, the grand mistake of all such as have conceived an impression that the present King of Swedens martial undertakings were really intended for or towards the propagation and defence of the Protestant cause. First printed in the German language, and now faithfully Englished.</title>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Isaac Pridmore and Henry Marsh, at the Golden Faulcon neer the new exchange; and at the Princes Arms in Chancery Lane, neer Fleet-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCLXI [i.e. 1659]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July 25".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Protestantism --  Early works to 1800.</term>
+               <term>Elbing (Germany) --  Early works to 1800.</term>
+               <term>Malbork (Poland) --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-12</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119087:1" rendition="simple:additions"/>
+            <p>
+               <hi>The Swediſh Cloak of Religion:</hi> A POLITICK DISCOURSE Between two Citizens of ELBING, Occaſioned by the publiſhing of a Proclamation, by the Swediſh Governour of that City.</p>
+            <p>Wherein is laid open to the view of the World, How the whole Palatinate of <hi>Marienburgh</hi> in <hi>Pruſsia</hi> is made deſolate, and brought into Slavery, by the Swediſh Religious Pretexts, and In<g ref="char:EOLhyphen"/>troduction of a New Church-Government.</p>
+            <p>And conſequently, The grand miſtake of all ſuch as have conceived an Impreſſion that the preſent King of <hi>Swedens</hi> Martial Undertakings were really intended for or towards the Propa<g ref="char:EOLhyphen"/>gation and Defence of the Proteſtant Cauſe.</p>
+            <q>
+               <l>— Saepius olim</l>
+               <l>Religio peperit ſceleroſa atque impia facta.</l>
+            </q>
+            <q>
+               <l>Times by-paſt have produc'd in many Acts and Places</l>
+               <l>Moſt impious Deſignes under Religious Faces.</l>
+            </q>
+            <p>Firſt printed in the German Language, and now faithfully Engliſhed.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Iſaac Pridmore</hi> and <hi>Henry Marſh,</hi> at the Golden Faulcon neer the New Exchange; and at the Princes Arms in Chancery Lane, neer Fleet-ſtreet, MDCLIX.</p>
+         </div>
+      </front>
+      <body>
+         <div type="discourse">
+            <pb facs="tcp:119087:2"/>
+            <pb n="1" facs="tcp:119087:2"/>
+            <head>
+               <hi>The Swediſh Cloak of Religion:</hi> OR, A Politick DISCOURSE Beeween two Citizens of ELBING.</head>
+            <sp>
+               <speaker>Simplicius.</speaker>
+               <p>GOodmorrow Sir, how are you in your health why look you ſo melancholy?</p>
+            </sp>
+            <sp>
+               <speaker>Conſtantinus.</speaker>
+               <p>I thank you good Neighbour, all's not well; and truly, in this Juncture of Affairs, Mirth is become a ſtranger to me.</p>
+            </sp>
+            <sp>
+               <speaker>Simplicius.</speaker>
+               <p>What's the matter? will you alone be ſad, while we have ſo great occaſion of rejoycing? Hath not Almighty God mercifully viſited us, by bringing us under the Government of a Prince ſincerely devoted to the unaltered Confeſſion of <hi>Augsburgh,</hi> who hath not onely diſcharged the ſinging of the Pſalms of <hi>Da<g ref="char:EOLhyphen"/>vid</hi> tranſlated by <hi>L<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>bwaſſer</hi> (which hath been for a long time the Apple of ſtrife in this City) but alſo e<g ref="char:EOLhyphen"/>jected the Roman Catholicks out of the Cathedral Church, ſet up an high Conſiſtory, and thereby made the Lutheran Doctrine in great purity to ſhine again
+<pb n="2" facs="tcp:119087:3"/>both here and in the Country, to the grief and aſto<g ref="char:EOLhyphen"/>niſhment of Papiſts, Calviniſts, and all ſuch Secta<g ref="char:EOLhyphen"/>ries as grudge and repine at the Lutheran proſperity? Hence we may ſee the truth of that Inſcription writ<g ref="char:EOLhyphen"/>ten by a zealous Lutheran upon the Frontiſpiece of his houſe in the Suburbs of this City <hi>[Gods Word and the Lutheran Doctorine never periſh can.]</hi> Likewiſe the Proclamation of our favourable Lord Governour demonſtrates the great affection our preſent King and Soveraign beareth to us, with how much dili<g ref="char:EOLhyphen"/>gence and ſerious care he mindes the advancement of the honour of GOD, and the welfare of the Churches; and how on the contrary, he endeavoureth the extir<g ref="char:EOLhyphen"/>pation of all impious abuſes. There's a Remedy for a dejected countenance; wherefore chear up your ſelf.</p>
+            </sp>
+            <sp>
+               <speaker>Conſtantinus.</speaker>
+               <p>Shall I confeſs ingenuouſly? The Remedy you have preſcribed for my Eaſe, hath renewed my Grief. It's this glorious Reformation is the chief cauſe of my ſorrow.</p>
+            </sp>
+            <sp>
+               <speaker>Simplicius.</speaker>
+               <p>I am very much miſtaken, but you are of thoſe who pretend to be Lutherans, yet are really Calvi<g ref="char:EOLhyphen"/>niſts; hence 'tis you cannot reliſh and comply with this Reformation.</p>
+            </sp>
+            <sp>
+               <speaker>Conſtantinus.</speaker>
+               <p>You will not (I hope) miſconſtrue my freedome, when I tell you that you are of that batch who aim to render all ſuch men odious, under the names of Calviniſts, Papiſts &amp; Libertines, as do not ſympathize with, and yeild their concurrence to the promoving of theſe ſubdolous and prejudicial Deſignes, mask'd with a ſhew of Reformation; this (believe me ho<g ref="char:EOLhyphen"/>neſt
+<pb n="3" facs="tcp:119087:3"/>Neighbour) is a Machiavilian Trap, wherein the rude Multitude hath not been catch'd and chea<g ref="char:EOLhyphen"/>ted once.</p>
+            </sp>
+            <sp>
+               <speaker>Simplicius.</speaker>
+               <p>You ſpeak like a diſcontented perſon; what's the buſineſs? It it our new Eccleſiaſtical Government wherewith you are diſpleaſed? pray you impart it to your friend; I am deſirous to know it.</p>
+            </sp>
+            <sp>
+               <speaker>Conſtantinus.</speaker>
+               <p>I will not conceal it from you; It is indeed this in<g ref="char:EOLhyphen"/>novation (term it as you pleaſe) which renders it ſelf juſtly ſuſpected to all prudent men, ſince (accor<g ref="char:EOLhyphen"/>ding to the common Proverb) it is alwayes danger<g ref="char:EOLhyphen"/>ous. But paſſing that, there are many other things couched under it, which are not diſcovered by ma<g ref="char:EOLhyphen"/>ny good people, the event whereof (I wiſh I be miſta<g ref="char:EOLhyphen"/>ken) will prove very hurtful and noxious to us.</p>
+            </sp>
+            <sp>
+               <speaker>Simplicius.</speaker>
+               <p>Good Sir, let me intreat you to communicate that to me; for I confeſs, I can perceive no evil at all therein.</p>
+            </sp>
+            <sp>
+               <speaker>Conſtantinus.</speaker>
+               <p>The eaſier I believe you, neither do I think it ſtrange to finde you of that ſtamp, ſince you lodge this perſwaſion in your breaſt, That Almighty God hath mercifully viſited this Province and City, by bringing the Inhabitants thereof under the govern<g ref="char:EOLhyphen"/>ment of the preſent Swediſh King.</p>
+            </sp>
+            <sp>
+               <speaker>Simplicius.</speaker>
+               <p>I never call'd that in queſtion; and ſo much the ra<g ref="char:EOLhyphen"/>ther, becauſe the ſame is verbally expreſſed in the Preamble of the Ordinance publiſhed by our Lord Governour: Is there any ground of doubt left then?</p>
+            </sp>
+            <pb n="4" facs="tcp:119087:4"/>
+            <sp>
+               <speaker>Conſtantinus.</speaker>
+               <p>The Truth of that, the deplorable condition of this Country and City under theſe new Governors, doth ſufficiently declare. Under our lawful King, we en<g ref="char:EOLhyphen"/>joyed Peace and Quietneſs, we lived amicably a<g ref="char:EOLhyphen"/>mongſt our ſelves; no Contributions, Exciſes &amp; into<g ref="char:EOLhyphen"/>lerable burdens were exacted, except thoſe which for our ſafety, and better accommodation, we voluntari<g ref="char:EOLhyphen"/>ly advanced: the Right of Patronage was in our diſ<g ref="char:EOLhyphen"/>poſing; we ordered our Gariſons without the impe<g ref="char:EOLhyphen"/>rious commands of Forreigners and Staroſts; Trade and Commerce was free; we kept good correſpon<g ref="char:EOLhyphen"/>dency, and were alwayes in much eſtimation with our Neighbours, and many others abroad: this con<g ref="char:EOLhyphen"/>dition deſerved indeed the name of a merciful viſita<g ref="char:EOLhyphen"/>tion from above. But now inſtead of Peace, behold a bloody and unnatural War, a pleaſant and fertile Country laid waſte and deſolate, free Trade inter<g ref="char:EOLhyphen"/>rupted and at a ſtand, Liberty is exchanged with Sla<g ref="char:EOLhyphen"/>very; for mutual amity, we have inteſtine Diſcord and Hoſtilities: Contribution and new Exactions (that know no end) are dayly extorted from us; the right of Patronage of Churches and Schools is uſur<g ref="char:EOLhyphen"/>ped by ſtrangers, who now Gariſon our City; un<g ref="char:EOLhyphen"/>couth Staroſts and Commanders rule over us at their pleaſure; finally, we are become a reproach and hiſ<g ref="char:EOLhyphen"/>ſing to our Neighbours, &amp; that not unjuſtly, ſeeing we have ſo vainly and inconſiderately violated our ſo<g ref="char:EOLhyphen"/>lemn Oath of allegiance to our lawful King, and ſub<g ref="char:EOLhyphen"/>jected our ſelves to a Forraigner: Yet this, forſooth, muſt be interpreted Mercy, when (if we will allow it a name ſuitable to its nature) it is nothing elſe but Gods diſpleaſure, written in capital Letters, and a viſible judgement broken forth out of the North up<g ref="char:EOLhyphen"/>on
+<pb n="5" facs="tcp:119087:4"/>on all the Inhabitants of the Land (according to that of <hi>Jeremiah,</hi> chap. 1.14. &amp; 6.1.) from whence I pray God no greater evil may befal us.</p>
+            </sp>
+            <sp>
+               <speaker>Simplicius.</speaker>
+               <p>What Sir, is not this a ſpecial mercy of God, that we are come under the government of a Prince who ſtands conſtant to the unaltered Confeſſion of <hi>Augs<g ref="char:EOLhyphen"/>burgh?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Conſtantinus.</speaker>
+               <p>Simply conſidered in it ſelf, it might juſtly be ac<g ref="char:EOLhyphen"/>knowledged a ſingular mercy from God; but that we have ſo ſlightly ſet by honour, loyaltie, and the Oath of Allegiance, renouncing our lawful Superiour for Religion ſake, cannot (as I conceive) be defended by the word of God, nor yet doth it conſiſt with the <hi>Augsburghs</hi> Confeſſion; eſpecially ſince the free ex<g ref="char:EOLhyphen"/>erciſe of our Religion was never hindered by our lawful Lord and King; yea, on the contrary, he gran<g ref="char:EOLhyphen"/>ted and graciouſly confirmed our Privileges for the ſame, conformable tot he Confeſſion of <hi>Augsburgh,</hi> and at all times did protect us therein. Our Neigh<g ref="char:EOLhyphen"/>bours do no leſs adhere to the <hi>Ausburghs</hi> Confeſſion then we, yet they, to their perpetual praiſe, remain loyal to their King; whilſt we, on the other hand, by revolting from him, have contracted a more hainous blot of Infamy then can be waſhed off or oblitera<g ref="char:EOLhyphen"/>ted by the whole <hi>Baltick</hi> Sea.</p>
+            </sp>
+            <sp>
+               <speaker>Simplicius.</speaker>
+               <p>What we have done was out of neceſſity, becauſe our King was fled the Country, and the Enemy ſtan<g ref="char:EOLhyphen"/>ding upon our neck.</p>
+            </sp>
+            <sp>
+               <speaker>Conſtantinus.</speaker>
+               <p>There was no ſuch neceſſity; our Fortifications were good and ſtrong, we had of levied men and
+<pb n="6" facs="tcp:119087:5"/>Train Bands ſufficient; the Elector of <hi>Brandenburgh</hi> offered to protect and aſſiſt us; <hi>Marienburgh</hi> did the ſame really, but all in vain. Our walls are defended, Arms and Souldiers ordered not as againſt an Ene<g ref="char:EOLhyphen"/>my, but as to the reception of a Friend; our Reliefs were rejected, partly betraid; and when we ſhould have proved moſt faithful to our King, in defending his and our own Rights, we baſely revolted from him, and ingaged our ſelves in ſlavery; and for this (a<g ref="char:EOLhyphen"/>mongſt other motives) becauſe the Enemy was Lu<g ref="char:EOLhyphen"/>theran, which I can neither juſtifie nor defend: but you may, if you pleaſe, for your further ſatisfaction, read the printed Copy of an Epiſtle lately publiſh'd, wherein this Queſtion is reſolved, [<hi>whether the Evan<g ref="char:EOLhyphen"/>gelical States which adhere to the</hi> Augsburghs <hi>Confeſsion, may fall off from their Liege Lord, in hopes to advance Re<g ref="char:EOLhyphen"/>ligion?</hi>] where expreſly you will finde that to do ſo, is neither Juſt, Chriſtian nor Lutheriſh.</p>
+            </sp>
+            <sp>
+               <speaker>Simplicius.</speaker>
+               <p>I will, upon your recommendation, take occaſion to read that Epiſtle, and then anſwer to this point. But in the interim, I hope you are not diſpleaſed with the diſcharging the ſinging of the Pſalms of <hi>David,</hi> tranſlated by <hi>Lobwaſſer.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Conſtantinus.</speaker>
+               <p>I mind not to queſtion <hi>Lobwaſſers</hi> integrity, nor am I anxious whether his tranſlation of the Pſalmes be ſung amongſt us, or not; yet could I never reliſh theſe great conteſts and debates upon this ſubject, from whence ſo many inconveniencies did ariſe, fearing and foreſeeing the bad conſequences that have come to paſs.</p>
+               <p>
+                  <hi>Plato</hi> and other Philoſophers have taught and ob<g ref="char:EOLhyphen"/>ſerved, that the very changing of Muſique hath com<g ref="char:EOLhyphen"/>monly
+<pb n="7" facs="tcp:119087:5"/>produced the change of Government; which holds true amongſt us: for thoſe itchers after change and novelty, did firſt begin at <hi>Lobwaſſers</hi> Pſalms; but finding the Magiſtrates unwilling to countenance their factious inclination, they endeavoured to make a party among the people: in the mean time, the Swede coming before the City, they and their new<g ref="char:EOLhyphen"/>fangled complices ventilated their debate with grea<g ref="char:EOLhyphen"/>ter animoſity then before, and ſo prepared the way (in a tumultuous manner) to ſuch an caſie ſurren<g ref="char:EOLhyphen"/>der of this ſtrong City to the King of <hi>Sweden.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Simplicius.</speaker>
+               <p>By your expreſſions, I perceive you differ from the judgement of the moſt part of the people in this Ci<g ref="char:EOLhyphen"/>ty; and I confeſs, I know not how to defend all theſe paſſages handſomely: However, I doubt not but you approve of this, That we are put in poſſeſſion of the Cathedral Church, and that the Roman Catho<g ref="char:EOLhyphen"/>liques are expelled.</p>
+            </sp>
+            <sp>
+               <speaker>Conſtantinus.</speaker>
+               <p>Had we attained this poſſeſſion by lawful means, ſhould reliſh it very well; but believe me, it had been more commendable and advantagious for us, to have followed the footſteps of our neighbours of <hi>Thoren,</hi> and (as they did) ſuffered the Catholiques to enjoy their Priviledges with our ſelves. Moreover, in our own Church we had more room then we could take up; ſo when we go to the great Church, the other is empty: whereby we make our Cauſe worſe, and ren<g ref="char:EOLhyphen"/>der our ſelves hateful to others. For whereas here<g ref="char:EOLhyphen"/>tofore thoſe our Catholique Neighbours did mo<g ref="char:EOLhyphen"/>deſtly exerciſe their Devotions in that Church, they now, ſince they were expelled, have no publike meet<g ref="char:EOLhyphen"/>ing, nor Divine Worſhip at all, but go up and down
+<pb n="8" facs="tcp:119087:6"/>at random. And let me tell you, When we deal ſo ungratefully with the Roman Catholiques, contrary to the true intent of our Priviledges, which we had from them, we lead them by the hand, teaching them how they ſhall deal with us, in places under their power, as in due time we may expect they will do.</p>
+            </sp>
+            <sp>
+               <speaker>Simplicius.</speaker>
+               <p>Yet for all that, we are now by Authority made Uniform in Religion, which many other Cities have earneſtly wiſhed, but never could obtain. We have one Conſiſtory, one Superintendent: could bet<g ref="char:EOLhyphen"/>ter means be found out for ordering all aright, ſetling Peace and Uniformity amongſt our Preachers and People, and for ſupplying of every vacant Charge with Men fearing God and hating Covetouſneſs?</p>
+            </sp>
+            <sp>
+               <speaker>Conſtantinus.</speaker>
+               <p>To be Uniform in Religion, to have one Conſiſto<g ref="char:EOLhyphen"/>ry, one Superintendent in the City, all theſe in them<g ref="char:EOLhyphen"/>ſelves conſidered, are not to be rejected: But whe<g ref="char:EOLhyphen"/>ther it be intended for our good, and will prove ſo as is pretended, there is great cauſe of doubting; and believe me good Neighbour, here lurks the Serpent in the graſſe.</p>
+            </sp>
+            <sp>
+               <speaker>Simplicius.</speaker>
+               <p>In the entry of our diſcourſe, you could not con<g ref="char:EOLhyphen"/>ceal your ſuſpition; wherefore I intreat you Sir ſhew me where the Serpent lurks.</p>
+            </sp>
+            <sp>
+               <speaker>Conſtantinus.</speaker>
+               <p>It was my meaning to diſcover this to you before, had I not been interrupted by your digreſſive Queſti<g ref="char:EOLhyphen"/>ons: It is likewiſe not without hazard for any to ſpeak their minde freely upon this ſubject; ſince eve<g ref="char:EOLhyphen"/>ry one that do not conform themſelves exactly to this New Ordinance, may expect no leſs then a Citation by the Fiſcal-Royal, before the Lord Generaliſſimus at <hi>Marienburgh,</hi> and there to be ſeverely puniſhed ac<g ref="char:EOLhyphen"/>cording to their demerits.</p>
+            </sp>
+            <pb n="9" facs="tcp:119087:6"/>
+            <sp>
+               <speaker>Simplicius.</speaker>
+               <p>To act and do contrary are forbidden indeed, but not to ſpeak againſt it.</p>
+            </sp>
+            <sp>
+               <speaker>Constantinus.</speaker>
+               <p>I will then adventure to proceed, and tell you in confidence, to what end this preſent Reformation (you ſo highly extol) is undertaken by the Swede. Not (truly) for the advancement of the glory of God, not for the maintenance &amp; proſperity of the Church, not for eſtabliſhing of good order, not for ſetling peace and unity amongſt Preachers and people, as they pretend: but for their own ſafety, that thereby in this conjuncture of time, when the whole burden of War is drawing hither, they may render them<g ref="char:EOLhyphen"/>ſelves more ſecure.</p>
+            </sp>
+            <sp>
+               <speaker>Simplicius.</speaker>
+               <p>How can that be? I pray you make me underſtand it.</p>
+            </sp>
+            <sp>
+               <speaker>Conſtantinus.</speaker>
+               <p>To tell you briefly, theſe practiſes which you dig<g ref="char:EOLhyphen"/>nify with the name of a glorious Reformation, are onely <hi>Machiavilian, Campanellian</hi> and <hi>Achitophel's</hi> con<g ref="char:EOLhyphen"/>trivances, which are not diſcovered in their birth, by the Multitude: and do you doubt but the Swedes know very well, that Religion (be it true of falſe) is moſt powerful and prevalent upon the mindes and conſciences of men, to cauſe them actively concur to the promoting of any Deſign that is preſented with a religious Livery? hence amongſt other Argu<g ref="char:EOLhyphen"/>ments brought in to juſtifie this Invaſion and breach of Truce, they would have us and the world believe that their Zeal to Religion, the propagation of the Evangelical Doctrine, and extirpation of Papacy, cauſed them chiefly to take up Arms. Theſe plau<g ref="char:EOLhyphen"/>ſible Pretexts have not only illaqueate the rude Mul<g ref="char:EOLhyphen"/>titude, but alſo begotten an impreſſion upon many great ones (as if God had raiſed up another <hi>Gideon,</hi> to deliver his people, and vindicate the oppreſſed Evan<g ref="char:EOLhyphen"/>gelical
+<pb n="10" facs="tcp:119087:7"/>Doctrine) yea, they extend themſelves to the perſecution of all men without exception, (albeit Lutherans) who do not willingly ſubmit to the Swe<g ref="char:EOLhyphen"/>diſh Government, and applaud their Hoſtile Invaſi<g ref="char:EOLhyphen"/>on. So you may ſee how from the beginning we have been abuſed, in ſuffering our ſelves by theſe Re<g ref="char:EOLhyphen"/>ligious perſwaſions, to be ſeduced to this rebellious accommodation. And for our juſt reward, we have gotten Souldiers to be our Lords and Maſters, who cunningly improving our perfidious diligence, and perceiving diviſions amongſt us, concerning Matters of Religion, do not onely ſecretly foment and highten theſe debates (that ſo they may divide and over<g ref="char:EOLhyphen"/>come) but decide all controverſies in favour of the Multitude, as moſt numerous and uſeful for their de<g ref="char:EOLhyphen"/>ſignes: It was upon this account the Roman Catho<g ref="char:EOLhyphen"/>licks were expelled the great Church, and the Luthe<g ref="char:EOLhyphen"/>rans poſſeſſed of it, that by this gracious Teſtimony of the Swedes, the common people might upon all e<g ref="char:EOLhyphen"/>mergencies, be ſo much the more engaged to them.</p>
+            </sp>
+            <sp>
+               <speaker>Simplicius.</speaker>
+               <p>Since the Swede hath ſettled the affairs of our Church, I think it our duty to give him a requital; one good turn deſerves another: for my part, I con<g ref="char:EOLhyphen"/>feſs I now favour him more then I did at firſt; and on<g ref="char:EOLhyphen"/>ly for his religious Zeal, whereby we are put in this happy condition, which I and many others have heartily wiſhed for long ago. But go on in your Diſcourſe, and excuſe me for this interruption.</p>
+            </sp>
+            <sp>
+               <speaker>Conſtantinus.</speaker>
+               <p>The Swedes perceiving that (according to your own confeſſion) they had by Religion gained the hearts of the ſubjects of this City, have bended their thoughts how to keep this good impreſſion of their
+<pb n="11" facs="tcp:119087:7"/>zealous inclination, upon our affections, and how their reſpect might thereby be increaſed amongſt us.</p>
+               <p>Therefore they judged it expedient to indear them<g ref="char:EOLhyphen"/>ſelves with the Preachers, and eſpecially ſuch as the common people moſt applauded; well knowing, that ſo long as theſe did ſtick cloſe to their party, the mul<g ref="char:EOLhyphen"/>titude would never forſake them. To this purpoſe, and that they might more ſurely compaſs their De<g ref="char:EOLhyphen"/>ſigne, by preventing the admiſſion of any to the Mi<g ref="char:EOLhyphen"/>niſterial function, which were of a contrary ſtamp, they have invented this new Conſiſtory, and choſen an Arch-Prelate (wholly devoted to them, Soul and Body) to be Superintendent, and have ſtrictly, under the higheſt pains, diſcharged the accuſtomed chuſing and calling of Preachers by the Suffrage of the Peo<g ref="char:EOLhyphen"/>ple, who on the contrary, are commanded to make their applications, and give due reverence unto the Superintendent and Conſiſtory; and in caſe of vacan<g ref="char:EOLhyphen"/>cie, an addreſs muſt be made to them for an Upright and Godly man (doubtleſs alſo a good Swede) and upon their Approbation, (which is to be obſerv'd) to accept of him. Hence the Swedes expect a two-fold advantage; Firſt, a full aſſurance of our love, fidelity and conſtancy, eſpecially when the exhortations of our Paſtors have a joynt tendency that way, ſo that a few of their own Forces, with thoſe inhabitants of the City and Country, ſhall be ſufficient to ſtave off any danger that comes from without. In the next place, they (having this aſſurance) need not be much affraid of thoſe to whom this Reformation is not ac<g ref="char:EOLhyphen"/>ceptable, as Papiſts, Calviniſts, a part of the Coun<g ref="char:EOLhyphen"/>cil, and ſome of the Commons, which cannot digeſt the taking away their Priviledge of calling their own Preachers, or the <hi>Jus Patronatus,</hi> becauſe the Multi<g ref="char:EOLhyphen"/>tude
+<pb n="12" facs="tcp:119087:8"/>will eaſily balance them, unleſs they reſolve to expoſe themſelves to the greateſt hazard of life and limb.</p>
+            </sp>
+            <sp>
+               <speaker>Simplicius</speaker>
+               <p>Hold good Sir, you tell me of ſuch ſtrange paſſages as are an aſtoniſhment to me.</p>
+            </sp>
+            <sp>
+               <speaker>Conſtantinus.</speaker>
+               <p>Suffer me yet to adde one word, wherewith I will conclude at this time. You know the Swedes have us now in their power, and probably foreſeeing, whilſt they and their adherents are neceſſitated to make a ſhameful retreat out of <hi>Poland</hi> and <hi>Lithuania,</hi> that the Polonian King doth intend with all his force to over-run us here in <hi>Pruſsia;</hi> therefore they have be<g ref="char:EOLhyphen"/>taken themſelves to <hi>Achitophels</hi> counſel; and as he ad<g ref="char:EOLhyphen"/>viſed <hi>Abſalom to lie with his fathers concubines, whereby all Iſrael might know he was abhorred of his father, and ſo the hands of thoſe that were with him, would be more ſtrong,</hi> 2 Sam. 16.21. even ſo this unſeaſonable Reformation cannot but highly diſpleaſe the King &amp; States of <hi>Po<g ref="char:EOLhyphen"/>land,</hi> it being intended for no other purpoſe, but to make us ſtink before them, to deprave us of all hope of reconciliation with our lawful King, and conſe<g ref="char:EOLhyphen"/>quently, drive us into deſpair; for the wider we make our breach, ſo much the cloſer we muſt ſtand by the Swedes; and the more deſperately we hold their party, ſo much the better and longer will they be able to keep their ſtation. If this Parallel hold not, let im<g ref="char:EOLhyphen"/>partial men judge. But what will be the event, time will ſhew. I pray the Lord preſerve us, that this tend not to our total ſubverſion.</p>
+            </sp>
+            <sp>
+               <speaker>Simplicius.</speaker>
+               <p>God in mercy pity us, make all of us ſenſible of our dan<g ref="char:EOLhyphen"/>gerous backſlidings and re-eſtabliſh us in tranquillity.</p>
+            </sp>
+            <sp>
+               <speaker>Conſtantinus.</speaker>
+               <p>I joyn with you in the ſame wiſh, leaving theſe matters to your further meditation, reſerving the reſt till next meeting.</p>
+            </sp>
+            <p>
+               <hi>Farewel.</hi>
+            </p>
+            <div type="part">
+               <pb n="13" facs="tcp:119087:8"/>
+               <head>The Swediſh Proclamation, Publiſhed at <hi>Elbing:</hi> faith<g ref="char:EOLhyphen"/>fully tranſlated.</head>
+               <head type="sub">By the Counſellour of His Royal Majeſty, and of the Realm of <hi>Sweden,</hi> General of the Infantry, and Governour of the Palatinate of <hi>Marienburgh.</hi>
+               </head>
+               <p>IT is hereby declared and make known, to all and every the Subjects of the Marienburgiſh Palatinate, That ſince Al<g ref="char:EOLhyphen"/>mighty God hath mercifully viſited this Province and Coun<g ref="char:EOLhyphen"/>try, and brought the inhabitants thereof under the moſt Illuſtri<g ref="char:EOLhyphen"/>ous and Magnipotent Prince and Lord, Lord <hi>CAROLUS GU<g ref="char:EOLhyphen"/>STAVUS,</hi> of the <hi>Swedes, Goths</hi> and <hi>Vandals</hi> King, great Duke in <hi>Finland,</hi> Duke in <hi>Ekſtland, Carelen, Bremen, Veurden, Stet<g ref="char:EOLhyphen"/>tin, Pomeren,</hi> of the <hi>Caſſubes</hi> and <hi>Wenſden,</hi> Duke at <hi>Rugen,</hi> Lord over <hi>Ingermanland</hi> and <hi>Wiſmar,</hi> as alſo <hi>Count Palatine</hi> on the <hi>Rhyne,</hi> in <hi>Bavaria,</hi> at <hi>Gulick, Cleve and Berg,</hi> Duke, <hi>&amp;c.</hi> His Highly Renowned Royal Majeſty, as a Prince af<g ref="char:EOLhyphen"/>fecting the unaltered Confeſſion of <hi>Augsburgh,</hi> hath ſpared no in<g ref="char:EOLhyphen"/>duſtry to try how the Doctrine of Gods holy Word (heretofore ſuppreſſed) might again be preached in publike, without any hin<g ref="char:EOLhyphen"/>derance, how in the Churches there might be eſtabliſhed a decent Order; true Peace and <g ref="char:V">Ʋ</g>nity erected amongſt Preachers and Congregations, Prophaneſs and Impiety diſcovered, ſo as here<g ref="char:EOLhyphen"/>after in all things, the glory of God, the ſafety and happineſs of the Church might be indeavoured and maintained. Yet could not His most Renowned Royal Majesty finde out any better means whereby to ſettle the ſpiritual Government of the Church, (which hitherto hath been defective,) then by conſtituting a Su<g ref="char:EOLhyphen"/>perintendent and Conſiſtory. To this end, His Royal Majeſty hath choſen, deputed and confirmed the Right Reverend Lord and Magister, <hi>David Klugh,</hi> ſometime Arch-Prelate of the Marquiſate of <hi>Pruſſia,</hi> and District of <hi>Lu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>emuk,</hi> &amp;c. to be Superintendent over the whole Marienburgiſh Palatinate, as well <hi>Elbing,</hi> and other Cities, as over all the Country. And it is His Royal Majeſties moſt gracious pleaſure, that the ſaid Lord Ma<g ref="char:EOLhyphen"/>giſter <hi>Klugh</hi> ſhall every way behave himſelf conformable to the Instructions received from His Royal Majesty. But above all things, to endeavour the maintenance of Peace and <g ref="char:V">Ʋ</g>nity, <g ref="char:V">Ʋ</g>p<g ref="char:EOLhyphen"/>rightneſs
+<pb n="14" facs="tcp:119087:9"/>and Honeſty, and other ſuch-like Chriſtian Vertues, as he ſhall be anſwerable before God and the Kings Majeſty. And it being neceſſary that the premiſes be known unto all the Subjects of this Palatinate; Therefore in the name of His Roy<g ref="char:EOLhyphen"/>al Majeſty, and with the approbation of His Illuſtrious Princely Highneſs, the Lord Generaliſſimus, I do hereby declare and pub<g ref="char:EOLhyphen"/>liſh the ſame, exhorting them, that according to His Royal Ma<g ref="char:EOLhyphen"/>jeſties earneſt and moſt gracious pleaſure, they acknowledge the aforeſaid Lord Magiſter <hi>Klugh,</hi> for their Superintendent, du<g ref="char:EOLhyphen"/>ly to reverence him and the ſaid Conſiſtory, by rendring unto them ſubmiſſive obedience, diligently to take notice of all exorbi<g ref="char:EOLhyphen"/>tancies in every Pariſh, and in caſe of any ſcandal, undecency, or injuſtice appearing in the ſame, to bring in their immediate com<g ref="char:EOLhyphen"/>plaint thereof before him. Theſe are likewiſe to advertiſe the Laick people in particular, henceforth to abſtain from their uſu<g ref="char:EOLhyphen"/>al cuſtom of chuſing and calling their own Preachers: but when any place is vacant, they are to apply themſelves to the Superin<g ref="char:EOLhyphen"/>tendent, inquire for an upright godly man, and upon his approba<g ref="char:EOLhyphen"/>tion, too accept of him. Alſo when they finde any thing worthy of reproach in their Preachers, they ſhall be obliged duly to com<g ref="char:EOLhyphen"/>plain of the ſame, and not, without having firſt given in their grievances, obſtinately (as heretofore they did) put them, out of their Miniſterial Charge. And foraſmuch as in purſuance of His Royal Majeſties moſt gracious Command, the Lord Superin<g ref="char:EOLhyphen"/>tendent ſhall be preſented on <hi>Aug. 22.</hi> in order to the then opening of the Conſiſtory: Theſe are therefore earneſtly to admoniſh all and every the Preachers within the Palatinate of <hi>Marienburgh,</hi> whe<g ref="char:EOLhyphen"/>ther in great Cities or ſmall Towns, and Country Villages, as alſo the Profeſſors, Rectors, and Office bearers of Colledges and Schools, that they be perſonally preſent, the day aforeſaid, within the Church of <hi>Elbing,</hi> there to aſſiſt and countenance the ſaid pre<g ref="char:EOLhyphen"/>ſentation of the Lord Superintendent, and opening the Conſiſtory. And if any ſhall in the leaſt do contrary to what is above expreſ<g ref="char:EOLhyphen"/>ſed, let him expect no other but to be cited by the Fiſcal-Royal to <hi>Marienburgh,</hi> before His Illuſtrious Princely Highneſs, the Lord Generaliſſimus, there to anſwer for his Tranſgreſſion, and to be ſeverely puniſhed, according to his demerits. Whereunto e<g ref="char:EOLhyphen"/>very one is to regulate himſelf, and avoid his own hurt.</p>
+            </div>
+            <closer>
+               <signed>Signatum Elbing. Lorents Vander Lind.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
